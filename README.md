@@ -4,7 +4,7 @@
 
 ## Algoritma Şeması
 
-![Yeni Proje (7)](https://github.com/ugurcomptech/3DES-Encryption/assets/133202238/f7dbabea-9d91-418e-abbd-ac9d783039e8)
+![image](https://github.com/ugurcomptech/3DES-Encryption/assets/133202238/1c92718e-f91a-453e-9728-7c6cb7c7afc7)
 
 
 
