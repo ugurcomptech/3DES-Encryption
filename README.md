@@ -59,6 +59,7 @@
 
 
 
+
 ## Açıklama
 
 - İlk adımda, veri (64 bit) ve ilk anahtar (64 bit) kullanılarak DES şifrelemesi yapılır.
